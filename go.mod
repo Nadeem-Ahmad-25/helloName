@@ -1,3 +1,3 @@
-module github.com/nadeemAhmad25/helloName
+module github.com/Nadeem-Ahmad-25/helloName
 
 go 1.21
